@@ -61,3 +61,6 @@ secrets.json
 # macOS and editor local files
 .DS_Store
 .vscode/
+
+# Local backup files
+ main_backup.dart
